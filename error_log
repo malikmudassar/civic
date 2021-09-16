@@ -1,0 +1,60 @@
+[04-Jan-2021 17:21:51 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/civic/public_html/includes/sql_builder/idiorm.php:329
+Stack trace:
+#0 /home/civic/public_html/includes/sql_builder/idiorm.php(329): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/civic/public_html/includes/sql_builder/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/civic/public_html/includes/functions/func.global.php(217): ORM::for_table('pro_options')
+#3 /home/civic/public_html/includes/functions/func.global.php(2): load_all_option_in_template(Array)
+#4 /home/civic/public_html/php/404.php(7): require_once('/home/civic/pub...')
+#5 /home/civic/public_html/index.php(140): require('/home/civic/pub...')
+#6 {main}
+  thrown in /home/civic/public_html/includes/sql_builder/idiorm.php on line 329
+[04-Jan-2021 17:21:52 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/civic/public_html/includes/sql_builder/idiorm.php:329
+Stack trace:
+#0 /home/civic/public_html/includes/sql_builder/idiorm.php(329): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/civic/public_html/includes/sql_builder/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/civic/public_html/includes/functions/func.global.php(217): ORM::for_table('pro_options')
+#3 /home/civic/public_html/includes/functions/func.global.php(2): load_all_option_in_template(Array)
+#4 /home/civic/public_html/php/404.php(7): require_once('/home/civic/pub...')
+#5 /home/civic/public_html/index.php(140): require('/home/civic/pub...')
+#6 {main}
+  thrown in /home/civic/public_html/includes/sql_builder/idiorm.php on line 329
+[04-Jan-2021 17:22:22 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/civic/public_html/includes/sql_builder/idiorm.php:329
+Stack trace:
+#0 /home/civic/public_html/includes/sql_builder/idiorm.php(329): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/civic/public_html/includes/sql_builder/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/civic/public_html/includes/functions/func.global.php(217): ORM::for_table('pro_options')
+#3 /home/civic/public_html/includes/functions/func.global.php(2): load_all_option_in_template(Array)
+#4 /home/civic/public_html/php/404.php(7): require_once('/home/civic/pub...')
+#5 /home/civic/public_html/index.php(140): require('/home/civic/pub...')
+#6 {main}
+  thrown in /home/civic/public_html/includes/sql_builder/idiorm.php on line 329
+[04-Jan-2021 17:31:50 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/civic/public_html/includes/sql_builder/idiorm.php:329
+Stack trace:
+#0 /home/civic/public_html/includes/sql_builder/idiorm.php(329): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/civic/public_html/includes/sql_builder/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/civic/public_html/includes/functions/func.global.php(217): ORM::for_table('pro_options')
+#3 /home/civic/public_html/includes/functions/func.global.php(2): load_all_option_in_template(Array)
+#4 /home/civic/public_html/php/404.php(7): require_once('/home/civic/pub...')
+#5 /home/civic/public_html/index.php(140): require('/home/civic/pub...')
+#6 {main}
+  thrown in /home/civic/public_html/includes/sql_builder/idiorm.php on line 329
+[04-Jan-2021 17:35:04 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/civic/public_html/includes/sql_builder/idiorm.php:329
+Stack trace:
+#0 /home/civic/public_html/includes/sql_builder/idiorm.php(329): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/civic/public_html/includes/sql_builder/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/civic/public_html/includes/functions/func.global.php(217): ORM::for_table('pro_options')
+#3 /home/civic/public_html/includes/functions/func.global.php(2): load_all_option_in_template(Array)
+#4 /home/civic/public_html/php/404.php(7): require_once('/home/civic/pub...')
+#5 /home/civic/public_html/index.php(140): require('/home/civic/pub...')
+#6 {main}
+  thrown in /home/civic/public_html/includes/sql_builder/idiorm.php on line 329
+[04-Jan-2021 17:35:04 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/civic/public_html/includes/sql_builder/idiorm.php:329
+Stack trace:
+#0 /home/civic/public_html/includes/sql_builder/idiorm.php(329): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/civic/public_html/includes/sql_builder/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/civic/public_html/includes/functions/func.global.php(217): ORM::for_table('pro_options')
+#3 /home/civic/public_html/includes/functions/func.global.php(2): load_all_option_in_template(Array)
+#4 /home/civic/public_html/php/404.php(7): require_once('/home/civic/pub...')
+#5 /home/civic/public_html/index.php(140): require('/home/civic/pub...')
+#6 {main}
+  thrown in /home/civic/public_html/includes/sql_builder/idiorm.php on line 329

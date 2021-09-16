@@ -5,6 +5,8 @@ require_once('includes.php');
 <link rel="stylesheet" href="assets/js/plugins/datatables/jquery.dataTables.min.css" />
 <main class="app-layout-content">
 
+<!-- This is a new testing comment section -->
+
     <!-- Page Content -->
     <div class="container-fluid p-y-md">
         <!-- Partial Table -->
